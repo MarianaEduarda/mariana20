@@ -35,7 +35,8 @@ background: linear-gradient(180deg, #A83234 0%, rgba(168, 50, 52, 0) 100%);
     font-size: small;
     text-align: left;
     font-size: 18px;
-    color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    text-align:center ;
     }
     .itens {
     background-color: rgb(243, 156, 168);
