@@ -1,6 +1,7 @@
 .apre{
     
-   
+    background: linear-gradient(180deg, #A83234 0%, rgba(168, 50, 52, 0) 100%);
+    width: 1440px;
     font-size: small;
     color: black;
     text-align: center;
