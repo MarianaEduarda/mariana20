@@ -55,6 +55,8 @@ background: linear-gradient(180deg, #A83234 0%, rgba(168, 50, 52, 0) 100%);
     height: 70px;
     }
     .itens {
+    text-align: center;
+    top: 565px;
     left: 200px;
     position: absolute;
     top: 480px;
