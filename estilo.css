@@ -2,7 +2,7 @@
 
    
 
-width: 2100px;
+width: 2440px;
 left: 0px;
 top: 0px;
 
@@ -35,13 +35,14 @@ background: linear-gradient(180deg, #A83234 0%, rgba(168, 50, 52, 0) 100%);
     font-size: 14px;
     }
     .linha {
+    width: 2440px;
     font-family: 'Lucida Sans';
     font-size: small;
     font-size: 12px;
     background-color:rgb(168, 50, 52);
     }
     .lista {
-    top: 1200px;
+    top: 1250px;
     width: 2440px;
     position: absolute;
     font-family: 'Lucida Sans';
