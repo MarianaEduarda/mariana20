@@ -1,7 +1,10 @@
+.body{
+min-width: 320px;
+max-width: 800px;
+margin: auto;
+}
+
 .apre{
-
-   
-
 width: 2440px;
 left: 0px;
 top: 0px;
