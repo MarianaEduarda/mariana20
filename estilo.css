@@ -1,4 +1,20 @@
+.body{
+    min-width: 320px;
+max-width: 800px;
+margin: auto;
+}
 
+.head{
+    min-width: 320px;
+    max-width: 800px;
+    margin: auto;
+    }
+    
+    .footer{
+        min-width: 320px;
+max-width: 800px;
+margin: auto;
+}
     
 .apre{
 width: 2440px;
