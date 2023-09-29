@@ -1,0 +1,113 @@
+.body{
+    min-width: 320px;
+max-width: 800px;
+margin: auto;
+}
+
+.head{
+    min-width: 320px;
+    max-width: 800px;
+    margin: auto;
+    }
+    
+    .footer{
+        min-width: 320px;
+max-width: 800px;
+margin: auto;
+}
+    
+.apre{
+width: 2440px;
+left: 0px;
+top: 0px;
+background: linear-gradient(180deg, #A83234 0%, rgba(168, 50, 52, 0) 100%);
+  
+    }
+    .texto{
+        font-size: small;
+        color: black;
+        text-align: center;
+        display: inline;
+        font-size: 20px;
+
+    }
+.avatar{
+    width: 100%;
+    height: 100%;
+    }
+
+.img3{
+    width: 345px;
+    height: 242px;
+    }
+    h3{
+    font-family: 'Lucida Sans';
+    font-size: small;
+    color: #111010;
+    text-align: center;
+    display: inline;
+    font-size: 14px;
+    }
+    .linha1{
+        width: 2440px;
+        font-family: 'Lucida Sans';
+        font-size: small;
+        font-size: 12px;
+        background-color:rgb(168, 50, 52);
+    }
+
+    .linha {
+    top: 1230px;
+    position: absolute;
+    width: 2440px;
+    font-family: 'Lucida Sans';
+    font-size: small;
+    font-size: 12px;
+    background-color:rgb(168, 50, 52);
+    }
+    .lista {
+    top: 1250px;
+    width: 2440px;
+    position: absolute;
+    font-family: 'Lucida Sans';
+    font-size: small;
+    font-size: 20px;
+    color:rgb(0, 0, 0);
+    text-align: center ;
+    
+    background: linear-gradient(180deg, rgba(168, 50, 52, 0) 0%, #A83234 100%);
+    height: 70px;
+    }
+
+    .itens {
+    text-align: center;
+    top: 566px;
+    left: 650px;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    color:rgb(5, 5, 5) ;
+    
+    }
+
+    .voltarinicio {
+        position: absolute;
+    width: 250px;
+    font-size: 30px;
+    font-family: 'Georgia';
+    color: #530F0F;
+    top: 30px;
+    }
+
+    .time{
+        padding-left: 500px;
+        width: 568px;
+height: 380px;
+flex-shrink: 0;
+padding-top: 130px;
+    }
+    
+   .instagram{
+    position: absolute;
+left: -150px;
+top: 90px;
+   }
